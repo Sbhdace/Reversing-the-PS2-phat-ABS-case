@@ -4,7 +4,7 @@ I attempt to recreate the PS2 phat ABS case assembly, without the internal screw
 
 ## Purpose
 
-To put my skills in hardware design to the test, I decided to build a PC within the PlayStation 2's ABS shell. 
+To put my skills in hardware design to the test, I decided to build a PC within the PlayStation 2's ABS shell. This spawned the need to recreate a practical version of the shall that I can use to approximate the design.
 
 The case is composed of 4 parts in the SCPH-39003 model that I have used for this project:
 
